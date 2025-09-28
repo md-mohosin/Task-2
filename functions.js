@@ -73,3 +73,16 @@ let b;
 })()
 
 console.log(a)
+
+
+
+
+{
+  let z = 30;
+  /*var z = 30;*/ // accasable
+  console.log(z)
+}
+console.log(z); 
+
+
+
